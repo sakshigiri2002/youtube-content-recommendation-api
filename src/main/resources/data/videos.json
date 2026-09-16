@@ -1,0 +1,47 @@
+[
+  {
+    "videoId": "cake-cooker-101",
+    "title": "Eggless Cake in a Pressure Cooker Without an Oven",
+    "channel": "Home Kitchen India",
+    "description": "Make a soft eggless cake in a pressure cooker using a cake tin, salt and a low flame.",
+    "language": "en",
+    "durationSeconds": 720,
+    "transcript": "Today we will make an eggless vanilla cake in a pressure cooker without using an oven. Add flour, sugar, baking powder, baking soda, milk, oil and vanilla essence to a bowl. Mix the cake batter until smooth. Grease a cake tin and pour in the batter. Preheat the pressure cooker with a layer of salt at the bottom. Do not use the pressure cooker whistle or gasket. Place a stand and put the cake tin inside. Cover the cooker and bake on a low flame for thirty five to forty minutes. Check with a toothpick before removing the cake. Let it cool before serving."
+  },
+  {
+    "videoId": "chocolate-cooker-cake",
+    "title": "Chocolate Cake in Cooker - Easy No Oven Recipe",
+    "channel": "Simple Recipes",
+    "description": "A beginner-friendly chocolate cake made on a stovetop in a cooker.",
+    "language": "en",
+    "durationSeconds": 900,
+    "transcript": "This recipe shows how to make a chocolate cake without an oven. Combine flour, cocoa powder, sugar, baking powder, milk and butter. Prepare a thick batter and transfer it to a greased aluminium cake mould. Heat the cooker with salt, place a rack inside and cook the cake on low heat. Keep the whistle and rubber gasket removed. After forty minutes test the centre with a skewer. Cool the chocolate cake and decorate with cream."
+  },
+  {
+    "videoId": "oven-vanilla-cake",
+    "title": "Soft Vanilla Cake in an Oven",
+    "channel": "Bake Studio",
+    "description": "A classic vanilla sponge baked in a conventional oven.",
+    "language": "en",
+    "durationSeconds": 660,
+    "transcript": "Preheat your oven to one hundred eighty degrees Celsius. Beat butter and sugar, add eggs, flour and vanilla. Pour the batter into a lined cake tin and bake in the oven for thirty minutes. Cool the sponge before slicing. This recipe requires a conventional oven."
+  },
+  {
+    "videoId": "java-streams",
+    "title": "Java Streams and Functional Programming Deep Dive",
+    "channel": "Code Masters",
+    "description": "Learn map, filter, reduce, collectors and lambda expressions with practical examples.",
+    "language": "en",
+    "durationSeconds": 2400,
+    "transcript": "We explore Java streams, lambda expressions, functional interfaces, map, filter, reduce, collectors and parallel processing. The lesson includes practical Java examples and performance considerations for intermediate developers."
+  },
+  {
+    "videoId": "leaking-tap",
+    "title": "Fix a Leaking Kitchen Tap with Basic Tools",
+    "channel": "DIY At Home",
+    "description": "Repair a common tap leak with a wrench, screwdriver and replacement washer.",
+    "language": "en",
+    "durationSeconds": 840,
+    "transcript": "Turn off the water supply before repairing the leaking kitchen tap. Use an adjustable wrench and screwdriver to remove the handle. Replace the worn rubber washer, clean the valve seat and reassemble the tap. Turn the water back on slowly and check for leaks."
+  }
+]

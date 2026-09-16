@@ -1,0 +1,10 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: youtube-content-recommendation-api
+
+app:
+  data-file: classpath:data/videos.json
+  cli-enabled: false
